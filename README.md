@@ -1,4 +1,5 @@
-🔢 Number Guessing Game
+#🔢 Number Guessing Game
+
 A fun and interactive number guessing game built using Python and Pygame.
 Choose a difficulty level and try to guess the randomly generated number. Get real-time hints, track your attempts, and challenge yourself to guess the number faster!
 
